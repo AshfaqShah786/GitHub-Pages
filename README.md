@@ -4,23 +4,23 @@ DAY-6
 
 1. Initialize git
 
-    git init
+        git init
 
 2. Add all files
 
-    git add .
+        git add .
 
 3. Commit changes
 
-    git commit -m "Initial commit"
+        git commit -m "Initial commit"
 
 4. Connect to GitHub
 
-    git remote add origin https://github.com/<your-username>/<repo-name>.git
+        git remote add origin https://github.com/<your-username>/<repo-name>.git
 
 5. Push to GitHub
 
-    git push -u origin main
+        git push -u origin main
 
 6. Enable GitHub Pages
 
@@ -29,7 +29,6 @@ Select branch: main
 Folder: / (root) → Save
  
 
-    https://<your-username>.github.io/<repo-name>/
+        https://<your-username>.github.io/<repo-name>/
 
-🕒 Wait a minute or two for the site to go live.
-
+Note: It may take 1–2 minutes to appear.
